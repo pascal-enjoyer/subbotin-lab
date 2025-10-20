@@ -1,0 +1,55 @@
+# Android generated files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Gradle files
+.gradle/
+build/
+.gradle.properties
+
+# Local configuration files
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.hprof
+
+# Log files
+*.log
+
+# Keystores and sensitive data
+*.jks
+*.keystore
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Dependency directories
+bin/
+gen/
+out/
+
+# Proguard
+proguard/
+
+# Kotlin
+*.ktlint
+
+# CI/CD cache
+.cache/
